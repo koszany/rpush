@@ -947,6 +947,7 @@ Rails/ApplicationRecord:
     - 'lib/rpush/client/active_record/apns/feedback.rb'
     - 'lib/rpush/client/active_record/app.rb'
     - 'lib/rpush/client/active_record/notification.rb'
+    - 'lib/rpush/client/active_record/base.rb'
 
 # Offense count: 2
 # This cop supports unsafe autocorrection (--autocorrect-all).
